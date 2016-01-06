@@ -1,3 +1,4 @@
+#Answer to http://sites.fas.harvard.edu/~qr20/assignments/assign2.html
 #Program to print the acronym (based upon case)
 def printAcro(x):
         finaltext = ""
