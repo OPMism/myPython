@@ -1,3 +1,3 @@
-myPython
+__myPython__
 ========
-This Repository is used for uploading source code/programs created during python practise 
+This Repository is used for uploading source code/programs created during python practice 
