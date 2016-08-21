@@ -1,6 +1,6 @@
-x = input('Enter a number: ')
-y=0
-while y < x
+def printTriangle(y):
 	print ('#'*y)
-	y = y + 1
-print('\n')
+x = input('Enter a number')
+for y in range(0,x+1):
+	printTriangle(y)
+
