@@ -13,8 +13,8 @@ for num in range(lower,upper + 1):
    while temp > 0:
        digit = temp % 10
        sum += digit ** 3
-       print("Num is %d Temp is %d Sum is %d Digit is %d" % (num, temp, sum, digit))
        temp //= 10
-
+       print("Num is %d Temp is %d Sum is %d Digit is %d" % (num, temp, sum, digit))
+       
    if num == sum:
        print(num)
